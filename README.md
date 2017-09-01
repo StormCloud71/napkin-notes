@@ -12,4 +12,7 @@ Hopefully, someday, something worthwhile might come out of this.
 <li>
 didntknowthis.py : Another useless example. I honestly didn't know python could do this... I mean making a dictionary of functions and picking one at random. This too might come handy.
 </li>
+<li>
+babbler.py : Another mostly useless example. A simple class with some saving and loading json functions. Might be useful to someone out there. JSON to load should be like {'name':<i>name</i>,'sayings_list':[<i>saying1, saying2, saying3 ...</i>]}
+</li>
 </ul>
